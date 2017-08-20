@@ -1,0 +1,16 @@
+### Executable and batch files ###
+*.bat
+*.cmd
+*.exe
+
+### Logs ###
+*.log
+
+### Archives ###
+*.zip
+*.7z
+*.rar
+
+### Development ###
+dev_scripts
+
